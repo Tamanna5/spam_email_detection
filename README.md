@@ -16,9 +16,9 @@ The dataset used in this project contains:
 ```
 spam_email_detection/
 ├── README.md
-├── mail_detection.ipynb    # Jupyter notebook containing the implementation
-└── data/                  # Directory containing the dataset
-    └── emails.csv         # Dataset file
+├── mail_detection.ipynb   
+└── data/                  
+    └── emails.csv        
 ```
 
 ## Features
@@ -129,7 +129,7 @@ The notebook includes an interactive mode where you can:
 ## Requirements
 
 Key dependencies:
-- Python 3.8+
+- Python 3.10+
 - numpy
 - pandas
 - scikit-learn
